@@ -1,0 +1,94 @@
+id,name,rating,minutes,genre
+0,Wings,7.4,107,Drama
+1,The Broadway Melody,8.6,132,Musical
+2,All Quiet on the Western Front,8.2,130,Drama
+3,Cimarron,7.4,123,Drama
+4,Grand Hotel,7.5,111,Drama
+5,Cavalcade,8.1,128,Drama
+6,It Happened One Night,7.8,119,Comedy
+7,Mutiny on the Bounty,8.1,134,Adventure
+8,The Great Ziegfeld,7.8,120,Biography
+9,The Life of Emile Zola,8,100,Biography
+10,You Cant Take it With You,8,118,Comedy
+11,Gone With the Wind,7.6,131,Drama
+12,Rebecca,8,120,Drama
+13,How Green Was My Valley,8.1,122,Drama
+14,Mrs. Miniver,8.5,151,Drama
+15,Casablanca,7.9,112,Drama
+16,Going My Way,8.1,132,Comedy
+17,The Lost Weekend,8.9,201,Drama
+18,The Best Years of Our Lives,7.2,113,Drama
+19,Gentlemans Agreement,8.2,135,Drama
+20,Hamlet,8.5,155,Drama
+21,All the Kings Men,8.4,122,Drama
+22,All About Eve,7.2,123,Comedy
+23,An American in Paris,7.7,194,Musical
+24,The Greatest Show on Earth,7.4,162,Drama
+25,From Here to Eternity,8.4,178,Drama
+26,On the Waterfront,8.8,142,Crime
+27,Marty,8.9,195,Drama
+28,Around the World in 80 Days,8.3,131,Adventure
+29,The Bridge on the River Kwai,8.6,118,Adventure
+30,Gigi,8,181,Comedy
+31,Ben-Hur,7.4,99,Adventure
+32,The Apartment,8,133,Comedy
+33,West Side Story,7.8,163,Crime
+34,Lawrence of Arabia,8.1,120,Adventure
+35,Tom Jones,7.2,161,Adventure
+36,My Fair Lady,8.3,160,Drama
+37,The Sound of Music,7.4,132,Biography
+38,A Man for All Seasons,8.1,191,Biography
+39,In the Heat of the Night,7.3,125,Crime
+40,Oliver!,7.8,124,Drama
+41,Midnight Cowboy,7.8,105,Drama
+42,Patton,8.2,183,Biography
+43,The French Connection,8.1,93,Action
+44,The Godfather,8.1,120,Crime
+45,The Sting,8.7,133,Comedy
+46,The Godfather: Part II,9,202,Crime
+47,One Flew Over the Cuckoos Nest,8.3,129,Drama
+48,Rocky,9.2,175,Drama
+49,Annie Hall,7.8,104,Comedy
+50,The Deer Hunter,8,172,Drama
+51,Kramer vs. Kramer,7.9,113,Drama
+52,Ordinary People,7.5,153,Drama
+53,Chariots of Fire,8,109,Biography
+54,Gandhi,7.9,120,Biography
+55,Terms of Endearment,8,174,Comedy
+56,Amadeus,7.9,170,Biography
+57,Out of Africa,6.8,128,Biography
+58,Platoon,8.4,216,Drama
+59,The Last Emperor,7.6,152,Biography
+60,Rain Man,8.3,125,Drama
+61,Driving Miss Daisy,8.1,212,Comedy
+62,Dances with Wolves,6.9,115,Adventure
+63,The Silence of the Lambs,8.2,161,Crime
+64,Unforgiven,6.8,175,Western
+65,Schindlers List,7.7,90,Biography
+66,Forrest Gump,8.3,108,Drama
+67,Braveheart,7.8,118,Biography
+68,The English Patient,6.7,152,Drama
+69,Titanic,7.3,113,Drama
+70,Shakespeare in Love,8.3,138,Comedy
+71,American Beauty,7.6,110,Drama
+72,Gladiator,7.9,155,Action
+73,A Beautiful Mind,7.4,118,Biography
+74,Chicago,8.2,172,Comedy
+75,The Lord of the Rings: The Return of the King,8,101,Adventure
+76,Million Dollar Baby,7.3,126,Drama
+77,Crash,8.6,102,Drama
+78,The Departed,7.6,134,Crime
+79,No Country for Old Men,7.8,118,Crime
+80,Slumdog Millionaire,8.2,130,Drama
+81,The Hurt Locker,8.2,238,Drama
+82,The Kings Speech,8,126,Biography
+83,The Artist,7.3,116,Comedy
+84,Argo,6.8,176,Biography
+85,12 Years a Slave,7.8,132,Biography
+86,Birdman,8.2,105,Comedy
+87,Spotlight,6.1,112,Crime
+88,Moonlight,7.6,112,Drama
+89,The Shape of Water,6,123,Fantasy
+90,Green Book,8.1,136,Biography
+91,Parasite,6.4,100,Comedy
+92,Nomadland,7.8,144,Drama

@@ -1,0 +1,284 @@
+----Schedule---- (movieId - movieTitle - duration - rating - genre)
+Day 1: 
+50 - The Deer Hunter - 172 min - 8.0 - Drama
+WATCHTIME: 172 min 
+
+Day 2: 
+26 - On the Waterfront - 142 min - 8.8 - Crime
+WATCHTIME: 142 min 
+
+Day 3: 
+52 - Ordinary People - 153 min - 7.5 - Drama
+WATCHTIME: 153 min 
+
+Day 4: 
+24 - The Greatest Show on Earth - 162 min - 7.4 - Drama
+WATCHTIME: 162 min 
+
+Day 5: 
+11 - Gone With the Wind - 131 min - 7.6 - Drama
+0 - Wings - 107 min - 7.4 - Drama
+WATCHTIME: 238 min 
+
+Day 6: 
+48 - Rocky - 175 min - 9.2 - Drama
+WATCHTIME: 175 min 
+
+Day 7: 
+85 - 12 Years a Slave - 132 min - 7.8 - Biography
+41 - Midnight Cowboy - 105 min - 7.8 - Drama
+WATCHTIME: 237 min 
+
+Day 8: 
+45 - The Sting - 133 min - 8.7 - Comedy
+WATCHTIME: 133 min 
+
+Day 9: 
+87 - Spotlight - 112 min - 6.1 - Crime
+57 - Out of Africa - 128 min - 6.8 - Biography
+WATCHTIME: 240 min 
+
+Day 10: 
+8 - The Great Ziegfeld - 120 min - 7.8 - Biography
+44 - The Godfather - 120 min - 8.1 - Crime
+WATCHTIME: 240 min 
+
+Day 11: 
+46 - The Godfather: Part II - 202 min - 9.0 - Crime
+WATCHTIME: 202 min 
+
+Day 12: 
+79 - No Country for Old Men - 118 min - 7.8 - Crime
+10 - You Cant Take it With You - 118 min - 8.0 - Comedy
+WATCHTIME: 236 min 
+
+Day 13: 
+40 - Oliver! - 124 min - 7.8 - Drama
+9 - The Life of Emile Zola - 100 min - 8.0 - Biography
+WATCHTIME: 224 min 
+
+Day 14: 
+35 - Tom Jones - 161 min - 7.2 - Adventure
+WATCHTIME: 161 min 
+
+Day 15: 
+33 - West Side Story - 163 min - 7.8 - Crime
+WATCHTIME: 163 min 
+
+Day 16: 
+83 - The Artist - 116 min - 7.3 - Comedy
+12 - Rebecca - 120 min - 8.0 - Drama
+WATCHTIME: 236 min 
+
+Day 17: 
+69 - Titanic - 113 min - 7.3 - Drama
+39 - In the Heat of the Night - 125 min - 7.3 - Crime
+WATCHTIME: 238 min 
+
+Day 18: 
+17 - The Lost Weekend - 201 min - 8.9 - Drama
+WATCHTIME: 201 min 
+
+Day 19: 
+53 - Chariots of Fire - 109 min - 8.0 - Biography
+76 - Million Dollar Baby - 126 min - 7.3 - Drama
+WATCHTIME: 235 min 
+
+Day 20: 
+32 - The Apartment - 133 min - 8.0 - Comedy
+49 - Annie Hall - 104 min - 7.8 - Comedy
+WATCHTIME: 237 min 
+
+Day 21: 
+6 - It Happened One Night - 119 min - 7.8 - Comedy
+54 - Gandhi - 120 min - 7.9 - Biography
+WATCHTIME: 239 min 
+
+Day 22: 
+42 - Patton - 183 min - 8.2 - Biography
+WATCHTIME: 183 min 
+
+Day 23: 
+78 - The Departed - 134 min - 7.6 - Crime
+91 - Parasite - 100 min - 6.4 - Comedy
+WATCHTIME: 234 min 
+
+Day 24: 
+86 - Birdman - 105 min - 8.2 - Comedy
+47 - One Flew Over the Cuckoos Nest - 129 min - 8.3 - Drama
+WATCHTIME: 234 min 
+
+Day 25: 
+73 - A Beautiful Mind - 118 min - 7.4 - Biography
+34 - Lawrence of Arabia - 120 min - 8.1 - Adventure
+WATCHTIME: 238 min 
+
+Day 26: 
+29 - The Bridge on the River Kwai - 118 min - 8.6 - Adventure
+21 - All the Kings Men - 122 min - 8.4 - Drama
+WATCHTIME: 240 min 
+
+Day 27: 
+64 - Unforgiven - 175 min - 6.8 - Western
+WATCHTIME: 175 min 
+
+Day 28: 
+62 - Dances with Wolves - 115 min - 6.9 - Adventure
+60 - Rain Man - 125 min - 8.3 - Drama
+WATCHTIME: 240 min 
+
+Day 29: 
+81 - The Hurt Locker - 238 min - 8.2 - Drama
+WATCHTIME: 238 min 
+
+Day 30: 
+38 - A Man for All Seasons - 191 min - 8.1 - Biography
+WATCHTIME: 191 min 
+
+Day 31: 
+1 - The Broadway Melody - 132 min - 8.6 - Musical
+43 - The French Connection - 93 min - 8.1 - Action
+WATCHTIME: 225 min 
+
+Day 32: 
+59 - The Last Emperor - 152 min - 7.6 - Biography
+WATCHTIME: 152 min 
+
+Day 33: 
+51 - Kramer vs. Kramer - 113 min - 7.9 - Drama
+3 - Cimarron - 123 min - 7.4 - Drama
+WATCHTIME: 236 min 
+
+Day 34: 
+5 - Cavalcade - 128 min - 8.1 - Drama
+4 - Grand Hotel - 111 min - 7.5 - Drama
+WATCHTIME: 239 min 
+
+Day 35: 
+80 - Slumdog Millionaire - 130 min - 8.2 - Drama
+71 - American Beauty - 110 min - 7.6 - Drama
+WATCHTIME: 240 min 
+
+Day 36: 
+30 - Gigi - 181 min - 8.0 - Comedy
+WATCHTIME: 181 min 
+
+Day 37: 
+56 - Amadeus - 170 min - 7.9 - Biography
+WATCHTIME: 170 min 
+
+Day 38: 
+92 - Nomadland - 144 min - 7.8 - Drama
+WATCHTIME: 144 min 
+
+Day 39: 
+7 - Mutiny on the Bounty - 134 min - 8.1 - Adventure
+31 - Ben-Hur - 99 min - 7.4 - Adventure
+WATCHTIME: 233 min 
+
+Day 40: 
+36 - My Fair Lady - 160 min - 8.3 - Drama
+WATCHTIME: 160 min 
+
+Day 41: 
+68 - The English Patient - 152 min - 6.7 - Drama
+WATCHTIME: 152 min 
+
+Day 42: 
+16 - Going My Way - 132 min - 8.1 - Comedy
+WATCHTIME: 132 min 
+
+Day 43: 
+70 - Shakespeare in Love - 138 min - 8.3 - Comedy
+65 - Schindlers List - 90 min - 7.7 - Biography
+WATCHTIME: 228 min 
+
+Day 44: 
+14 - Mrs. Miniver - 151 min - 8.5 - Drama
+WATCHTIME: 151 min 
+
+Day 45: 
+72 - Gladiator - 155 min - 7.9 - Action
+WATCHTIME: 155 min 
+
+Day 46: 
+88 - Moonlight - 112 min - 7.6 - Drama
+82 - The Kings Speech - 126 min - 8.0 - Biography
+WATCHTIME: 238 min 
+
+Day 47: 
+23 - An American in Paris - 194 min - 7.7 - Musical
+WATCHTIME: 194 min 
+
+Day 48: 
+89 - The Shape of Water - 123 min - 6.0 - Fantasy
+15 - Casablanca - 112 min - 7.9 - Drama
+WATCHTIME: 235 min 
+
+Day 49: 
+61 - Driving Miss Daisy - 212 min - 8.1 - Comedy
+WATCHTIME: 212 min 
+
+Day 50: 
+19 - Gentlemans Agreement - 135 min - 8.2 - Drama
+77 - Crash - 102 min - 8.6 - Drama
+WATCHTIME: 237 min 
+
+Day 51: 
+58 - Platoon - 216 min - 8.4 - Drama
+WATCHTIME: 216 min 
+
+Day 52: 
+20 - Hamlet - 155 min - 8.5 - Drama
+WATCHTIME: 155 min 
+
+Day 53: 
+18 - The Best Years of Our Lives - 113 min - 7.2 - Drama
+22 - All About Eve - 123 min - 7.2 - Comedy
+WATCHTIME: 236 min 
+
+Day 54: 
+2 - All Quiet on the Western Front - 130 min - 8.2 - Drama
+75 - The Lord of the Rings: The Return of the King - 101 min - 8.0 - Adventure
+WATCHTIME: 231 min 
+
+Day 55: 
+74 - Chicago - 172 min - 8.2 - Comedy
+WATCHTIME: 172 min 
+
+Day 56: 
+55 - Terms of Endearment - 174 min - 8.0 - Comedy
+WATCHTIME: 174 min 
+
+Day 57: 
+63 - The Silence of the Lambs - 161 min - 8.2 - Crime
+WATCHTIME: 161 min 
+
+Day 58: 
+25 - From Here to Eternity - 178 min - 8.4 - Drama
+WATCHTIME: 178 min 
+
+Day 59: 
+37 - The Sound of Music - 132 min - 7.4 - Biography
+66 - Forrest Gump - 108 min - 8.3 - Drama
+WATCHTIME: 240 min 
+
+Day 60: 
+13 - How Green Was My Valley - 122 min - 8.1 - Drama
+67 - Braveheart - 118 min - 7.8 - Biography
+WATCHTIME: 240 min 
+
+Day 61: 
+27 - Marty - 195 min - 8.9 - Drama
+WATCHTIME: 195 min 
+
+Day 62: 
+84 - Argo - 176 min - 6.8 - Biography
+WATCHTIME: 176 min 
+
+Day 63: 
+28 - Around the World in 80 Days - 131 min - 8.3 - Adventure
+WATCHTIME: 131 min 
+
+Day 64: 
+90 - Green Book - 136 min - 8.1 - Biography
